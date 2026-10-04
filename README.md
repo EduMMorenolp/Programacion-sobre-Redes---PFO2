@@ -102,13 +102,12 @@ Porque al guardar una contraseña sin hash, si la base de datos es comprometida,
 
 ## Capturas de pantalla
 
-Para esta entrega, se recomienda probar la API desde una terminal y guardar capturas del resultado exitoso de:
+Se entrega capturas del resultado exitoso de:
 
 1. Servidor
-(Login)[PFO2\img\login.png]
+![Servidor](img/servidor.png)
 2. Login
-
-Estas capturas se pueden agregar al repositorio junto con la documentación si se desea publicar el proyecto en GitHub Pages o como entrega visual del ejercicio.
+![Login](img/login.png)
 
 ## Notas
 
