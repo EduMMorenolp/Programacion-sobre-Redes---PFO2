@@ -2,6 +2,8 @@
 
 Este proyecto implementa una API REST con Flask y SQLite para gestionar usuarios y tareas, además de un cliente de consola que interactúa con la API.
 
+Repositorio Github: https://github.com/EduMMorenolp/Programacion-sobre-Redes---PFO2
+
 ## Requisitos
 
 - Python 3.10 o superior
